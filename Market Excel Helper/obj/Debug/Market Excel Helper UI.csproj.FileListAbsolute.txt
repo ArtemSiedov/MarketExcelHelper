@@ -1,0 +1,36 @@
+E:\Project\Rozetka\Rozetka Excel Helper\Rozetka Excel Helper\bin\Debug\Market Excel Helper.dll
+E:\Project\Rozetka\Rozetka Excel Helper\Rozetka Excel Helper\bin\Debug\Market Excel Helper.pdb
+E:\Project\Rozetka\Rozetka Excel Helper\Rozetka Excel Helper\bin\Debug\Market Excel Helper.dll.manifest
+E:\Project\Rozetka\Rozetka Excel Helper\Rozetka Excel Helper\bin\Debug\Market Excel Helper.vsto
+E:\Project\Rozetka\Rozetka Excel Helper\Rozetka Excel Helper\bin\Debug\Market Excel Helper Core.dll
+E:\Project\Rozetka\Rozetka Excel Helper\Rozetka Excel Helper\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+E:\Project\Rozetka\Rozetka Excel Helper\Rozetka Excel Helper\bin\Debug\Market Excel Helper Core.pdb
+E:\Project\Rozetka\Rozetka Excel Helper\Rozetka Excel Helper\obj\Debug\Market Excel Helper UI.csproj.AssemblyReference.cache
+E:\Project\Rozetka\Rozetka Excel Helper\Rozetka Excel Helper\obj\Debug\Market_Excel_Helper.Properties.Resources.resources
+E:\Project\Rozetka\Rozetka Excel Helper\Rozetka Excel Helper\obj\Debug\Rozetka_Excel_Helper.UI.AddManagersForm.resources
+E:\Project\Rozetka\Rozetka Excel Helper\Rozetka Excel Helper\obj\Debug\Rozetka_Excel_Helper.UI.ProductGroupingSettingsForm.resources
+E:\Project\Rozetka\Rozetka Excel Helper\Rozetka Excel Helper\obj\Debug\Rozetka_Excel_Helper.UI.SplitBetweenManagers_Form.resources
+E:\Project\Rozetka\Rozetka Excel Helper\Rozetka Excel Helper\obj\Debug\Rozetka_Excel_Helper.UI.UIRibbon.resources
+E:\Project\Rozetka\Rozetka Excel Helper\Rozetka Excel Helper\obj\Debug\Market Excel Helper UI.csproj.GenerateResource.cache
+E:\Project\Rozetka\Rozetka Excel Helper\Rozetka Excel Helper\obj\Debug\Market Excel Helper UI.csproj.CoreCompileInputs.cache
+E:\Project\Rozetka\Rozetka Excel Helper\Rozetka Excel Helper\obj\Debug\Market E.86F0B1DF.Up2Date
+E:\Project\Rozetka\Rozetka Excel Helper\Rozetka Excel Helper\obj\Debug\Market Excel Helper.dll
+E:\Project\Rozetka\Rozetka Excel Helper\Rozetka Excel Helper\obj\Debug\Market Excel Helper.pdb
+E:\Project\Rozetka\Market Excel Helper\Market Excel Helper\bin\Debug\Market Excel Helper.dll
+E:\Project\Rozetka\Market Excel Helper\Market Excel Helper\bin\Debug\Market Excel Helper.pdb
+E:\Project\Rozetka\Market Excel Helper\Market Excel Helper\bin\Debug\Market Excel Helper.dll.manifest
+E:\Project\Rozetka\Market Excel Helper\Market Excel Helper\bin\Debug\Market Excel Helper.vsto
+E:\Project\Rozetka\Market Excel Helper\Market Excel Helper\bin\Debug\Market Excel Helper Core.dll
+E:\Project\Rozetka\Market Excel Helper\Market Excel Helper\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+E:\Project\Rozetka\Market Excel Helper\Market Excel Helper\bin\Debug\Market Excel Helper Core.pdb
+E:\Project\Rozetka\Market Excel Helper\Market Excel Helper\obj\Debug\Market Excel Helper UI.csproj.AssemblyReference.cache
+E:\Project\Rozetka\Market Excel Helper\Market Excel Helper\obj\Debug\Market_Excel_Helper.Properties.Resources.resources
+E:\Project\Rozetka\Market Excel Helper\Market Excel Helper\obj\Debug\Market_Excel_Helper.UI.AddManagersForm.resources
+E:\Project\Rozetka\Market Excel Helper\Market Excel Helper\obj\Debug\Market_Excel_Helper.UI.ProductGroupingSettingsForm.resources
+E:\Project\Rozetka\Market Excel Helper\Market Excel Helper\obj\Debug\Market_Excel_Helper.UI.SplitBetweenManagers_Form.resources
+E:\Project\Rozetka\Market Excel Helper\Market Excel Helper\obj\Debug\Market_Excel_Helper.UI.UIRibbon.resources
+E:\Project\Rozetka\Market Excel Helper\Market Excel Helper\obj\Debug\Market Excel Helper UI.csproj.GenerateResource.cache
+E:\Project\Rozetka\Market Excel Helper\Market Excel Helper\obj\Debug\Market Excel Helper UI.csproj.CoreCompileInputs.cache
+E:\Project\Rozetka\Market Excel Helper\Market Excel Helper\obj\Debug\Market E.86F0B1DF.Up2Date
+E:\Project\Rozetka\Market Excel Helper\Market Excel Helper\obj\Debug\Market Excel Helper.dll
+E:\Project\Rozetka\Market Excel Helper\Market Excel Helper\obj\Debug\Market Excel Helper.pdb

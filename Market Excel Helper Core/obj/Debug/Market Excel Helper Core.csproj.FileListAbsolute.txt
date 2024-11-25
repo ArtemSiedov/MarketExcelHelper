@@ -1,0 +1,22 @@
+E:\Project\Rozetka\Rozetka Excel Helper\Rozetka Excel Helper Core\bin\Debug\Market Excel Helper Core.dll
+E:\Project\Rozetka\Rozetka Excel Helper\Rozetka Excel Helper Core\bin\Debug\Market Excel Helper Core.pdb
+E:\Project\Rozetka\Rozetka Excel Helper\Rozetka Excel Helper Core\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+E:\Project\Rozetka\Rozetka Excel Helper\Rozetka Excel Helper Core\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+E:\Project\Rozetka\Rozetka Excel Helper\Rozetka Excel Helper Core\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+E:\Project\Rozetka\Rozetka Excel Helper\Rozetka Excel Helper Core\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+E:\Project\Rozetka\Rozetka Excel Helper\Rozetka Excel Helper Core\obj\Debug\Market Excel Helper Core.csproj.AssemblyReference.cache
+E:\Project\Rozetka\Rozetka Excel Helper\Rozetka Excel Helper Core\obj\Debug\Market Excel Helper Core.csproj.CoreCompileInputs.cache
+E:\Project\Rozetka\Rozetka Excel Helper\Rozetka Excel Helper Core\obj\Debug\Market E.BD1848CF.Up2Date
+E:\Project\Rozetka\Rozetka Excel Helper\Rozetka Excel Helper Core\obj\Debug\Market Excel Helper Core.dll
+E:\Project\Rozetka\Rozetka Excel Helper\Rozetka Excel Helper Core\obj\Debug\Market Excel Helper Core.pdb
+E:\Project\Rozetka\Market Excel Helper\Market Excel Helper Core\bin\Debug\Market Excel Helper Core.dll
+E:\Project\Rozetka\Market Excel Helper\Market Excel Helper Core\bin\Debug\Market Excel Helper Core.pdb
+E:\Project\Rozetka\Market Excel Helper\Market Excel Helper Core\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+E:\Project\Rozetka\Market Excel Helper\Market Excel Helper Core\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+E:\Project\Rozetka\Market Excel Helper\Market Excel Helper Core\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+E:\Project\Rozetka\Market Excel Helper\Market Excel Helper Core\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+E:\Project\Rozetka\Market Excel Helper\Market Excel Helper Core\obj\Debug\Market Excel Helper Core.csproj.AssemblyReference.cache
+E:\Project\Rozetka\Market Excel Helper\Market Excel Helper Core\obj\Debug\Market Excel Helper Core.csproj.CoreCompileInputs.cache
+E:\Project\Rozetka\Market Excel Helper\Market Excel Helper Core\obj\Debug\Market E.BD1848CF.Up2Date
+E:\Project\Rozetka\Market Excel Helper\Market Excel Helper Core\obj\Debug\Market Excel Helper Core.dll
+E:\Project\Rozetka\Market Excel Helper\Market Excel Helper Core\obj\Debug\Market Excel Helper Core.pdb

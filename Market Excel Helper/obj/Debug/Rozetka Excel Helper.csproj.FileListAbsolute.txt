@@ -1,0 +1,15 @@
+E:\Project\Rozetka\Rozetka Excel Helper\Rozetka Excel Helper\obj\Debug\Rozetka Excel Helper.csproj.AssemblyReference.cache
+E:\Project\Rozetka\Rozetka Excel Helper\Rozetka Excel Helper\obj\Debug\Rozetka_Excel_Helper.Properties.Resources.resources
+E:\Project\Rozetka\Rozetka Excel Helper\Rozetka Excel Helper\obj\Debug\Rozetka_Excel_Helper.UI.UIRibbon.resources
+E:\Project\Rozetka\Rozetka Excel Helper\Rozetka Excel Helper\obj\Debug\Rozetka Excel Helper.csproj.GenerateResource.cache
+E:\Project\Rozetka\Rozetka Excel Helper\Rozetka Excel Helper\obj\Debug\Rozetka Excel Helper.csproj.CoreCompileInputs.cache
+E:\Project\Rozetka\Rozetka Excel Helper\Rozetka Excel Helper\bin\Debug\Rozetka Excel Helper.dll
+E:\Project\Rozetka\Rozetka Excel Helper\Rozetka Excel Helper\bin\Debug\Rozetka Excel Helper.pdb
+E:\Project\Rozetka\Rozetka Excel Helper\Rozetka Excel Helper\bin\Debug\Rozetka Excel Helper.dll.manifest
+E:\Project\Rozetka\Rozetka Excel Helper\Rozetka Excel Helper\bin\Debug\Rozetka Excel Helper.vsto
+E:\Project\Rozetka\Rozetka Excel Helper\Rozetka Excel Helper\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+E:\Project\Rozetka\Rozetka Excel Helper\Rozetka Excel Helper\obj\Debug\Rozetka .E57E361E.Up2Date
+E:\Project\Rozetka\Rozetka Excel Helper\Rozetka Excel Helper\obj\Debug\Rozetka Excel Helper.dll
+E:\Project\Rozetka\Rozetka Excel Helper\Rozetka Excel Helper\obj\Debug\Rozetka Excel Helper.pdb
+E:\Project\Rozetka\Rozetka Excel Helper\Rozetka Excel Helper\obj\Debug\Rozetka_Excel_Helper.UI.SplitBetweenManagers_Form.resources
+E:\Project\Rozetka\Rozetka Excel Helper\Rozetka Excel Helper\obj\Debug\Rozetka_Excel_Helper.UI.AddManagersForm.resources

@@ -1,0 +1,11 @@
+E:\Project\Rozetka\Rozetka Excel Helper\Rozetka Excel Helper Core\bin\Debug\Rozetka Excel Helper Core.dll
+E:\Project\Rozetka\Rozetka Excel Helper\Rozetka Excel Helper Core\bin\Debug\Rozetka Excel Helper Core.pdb
+E:\Project\Rozetka\Rozetka Excel Helper\Rozetka Excel Helper Core\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+E:\Project\Rozetka\Rozetka Excel Helper\Rozetka Excel Helper Core\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+E:\Project\Rozetka\Rozetka Excel Helper\Rozetka Excel Helper Core\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+E:\Project\Rozetka\Rozetka Excel Helper\Rozetka Excel Helper Core\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+E:\Project\Rozetka\Rozetka Excel Helper\Rozetka Excel Helper Core\obj\Debug\Rozetka Excel Helper Core.csproj.AssemblyReference.cache
+E:\Project\Rozetka\Rozetka Excel Helper\Rozetka Excel Helper Core\obj\Debug\Rozetka Excel Helper Core.csproj.CoreCompileInputs.cache
+E:\Project\Rozetka\Rozetka Excel Helper\Rozetka Excel Helper Core\obj\Debug\Rozetka .5747546E.Up2Date
+E:\Project\Rozetka\Rozetka Excel Helper\Rozetka Excel Helper Core\obj\Debug\Rozetka Excel Helper Core.dll
+E:\Project\Rozetka\Rozetka Excel Helper\Rozetka Excel Helper Core\obj\Debug\Rozetka Excel Helper Core.pdb
